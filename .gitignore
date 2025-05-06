@@ -1,0 +1,7 @@
+__pycach*.log
+.env
+node_modules/
+*.sqlite3
+venv/
+.idea/
+.DS_Store
