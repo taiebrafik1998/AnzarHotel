@@ -1,7 +1,7 @@
 
 # 🏨 AnzarHotel – Gestion d'Hôtel en Microservices
 
-Bienvenue dans **AnzarHotel**, une application de gestion d’hôtel complète et modulaire basée sur une architecture microservices. Ce projet a pour but de t'apprendre toutes les technologies modernes utilisées en entreprise tout en construisant une application professionnelle.
+Bienvenue dans **AnzarHotel**, une application de gestion d’hôtel complète et modulaire basée sur une architecture microservices. Ce projet a pour but d'apprendre toutes les technologies modernes utilisées en entreprise tout en construisant une application professionnelle.
 
 ## 🚀 Objectifs du projet
 
