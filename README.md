@@ -64,4 +64,7 @@ pour le moment on a :
 Rafik Taieb 
 email: mtaieb.rafik@gmail.com
 
+## 📜 Licence
+
+Ce projet est libre d'utilisation pour des fins éducatives et personnelles.
 
