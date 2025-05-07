@@ -52,6 +52,7 @@ anzarhotel/
 - gateway-service (NGINX ou Express)
 
 ## 📊 Interfaces prévues
+pour le moment on a :
 
 - `admin-dashboard` – pour la gestion complète
 - `interface-resto` – pour les commis de rang
